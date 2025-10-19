@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @nidhi-rathod
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning python and SQL...
-- 💞️ I’m looking to collaborate on several projects...
-- 📫 Reach me through my GitHub profile ...
-
-<!---
-nidhi-rathod/nidhi-rathod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Final-year B.Tech Data Science student @ UMIT
+Skilled in Python, ML, Data Visualization, and Geospatial Analytics  
+Interested in AI for Earth, Space Tech, and Intelligence Systems  
+Turning real-world problems into data-driven solutions  
